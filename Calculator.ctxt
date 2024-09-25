@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=
+comment1.target=void\ start()
+comment2.params=a\ b\ operator
+comment2.target=double\ calculate(double,\ double,\ java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
